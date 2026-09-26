@@ -1,0 +1,6 @@
+{
+  "name": "KUBERA — Trustworthy Decision Intelligence",
+  "description": "AI-assisted loan document verification and evidence assessment system for enterprise fintech compliance and human-in-the-loop credit analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
